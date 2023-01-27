@@ -24,3 +24,20 @@ Built Tic Tac Toe Game using HTML, CSS and JavaScript
 
 ### Player "X" makes a winning move and the user receives a message confirming the win and prompting the user to start over with a new game
 ![image](https://user-images.githubusercontent.com/97334281/215187567-70d83feb-cf49-4068-8424-7c20dd17180a.png)
+
+## Restart button
+### The restart button has a hover style effects for better user experience. It then brings the user to a blank board and the game can start over
+![image](https://user-images.githubusercontent.com/97334281/215187854-45dec368-239d-4493-82bf-ba39249ac49b.png)
+![image](https://user-images.githubusercontent.com/97334281/215187902-48c68d91-2b57-4864-ace3-7f7c985e624f.png)
+
+## Victory for player "O"
+### Likewise, when player "O" wins, a confirmation message appears
+![image](https://user-images.githubusercontent.com/97334281/215188244-a6ea18ef-2a19-4110-9647-cdc0975c2af3.png)
+![image](https://user-images.githubusercontent.com/97334281/215188291-43a5eb2f-437f-4066-8ecf-69af3eaa70a5.png)
+
+## Draw
+### In the event the game ends with a draw then a message appears stating the outcome and the game can start over
+![image](https://user-images.githubusercontent.com/97334281/215188597-d330380b-6725-4a9b-8f83-5439edc561a3.png)
+![image](https://user-images.githubusercontent.com/97334281/215188638-e1c3cdb4-3ad0-4eef-94a6-26705375e19c.png)
+
+
