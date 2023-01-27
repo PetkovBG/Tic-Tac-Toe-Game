@@ -40,4 +40,4 @@ Built Tic Tac Toe Game using HTML, CSS and JavaScript
 ![image](https://user-images.githubusercontent.com/97334281/215188597-d330380b-6725-4a9b-8f83-5439edc561a3.png)
 ![image](https://user-images.githubusercontent.com/97334281/215188638-e1c3cdb4-3ad0-4eef-94a6-26705375e19c.png)
 
-##Enjoy playing!
+## Enjoy playing!
